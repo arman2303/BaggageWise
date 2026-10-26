@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
         if (item.getItemId() == R.id.action_share) {
 
             // Temporary link until GitHub repository is created
-            String appUrl = "https://github.com";
+            String appUrl = "https://github.com/arman2303/BaggageWise";
 
             Intent shareIntent = new Intent(Intent.ACTION_SEND);
 

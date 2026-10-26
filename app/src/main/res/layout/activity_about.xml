@@ -114,7 +114,7 @@
             android:layout_marginTop="10dp"
             android:autoLink="web"
             android:linksClickable="true"
-            android:text="https://github.com"
+            android:text="https://github.com/arman2303/BaggageWise"
             android:textColorLink="#158F8B"
             android:textSize="15sp" />
 
