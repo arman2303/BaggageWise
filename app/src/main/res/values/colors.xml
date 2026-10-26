@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="baggage_navy">#193C69</color>
+    <color name="baggage_teal">#158F8B</color>
+    <color name="baggage_background">#F3F6FB</color>
+</resources>
